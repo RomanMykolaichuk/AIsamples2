@@ -1,0 +1,10 @@
+https://www.researchgate.net/publication/370554172_Prompt_Engineering_For_ChatGPT_A_Quick_Guide_To_Techniques_Tips_And_Best_Practices
+https://github.com/dair-ai/Prompt-Engineering-Guide/blob/main/lecture/Prompt-Engineering-Lecture-Elvis.pdf
+https://www.cse.iitd.ac.in/~mausam/courses/col772/spring2023/lectures/22-promptengg.pdf
+https://www.slideshare.net/StephenAmell4/a-comprehensive-guide-to-prompt-engineeringpdf
+https://medium.com/@natashanewbold/mastering-prompt-engineering-a-free-ebook-b6c311afe969
+https://www.scribd.com/document/637564498/Prompt-Engineer-101
+https://labs.withsecure.com/content/dam/labs/docs/WithSecure-Creatively-malicious-prompt-engineering.pdf
+http://www.dre.vanderbilt.edu/~schmidt/PDF/A_Prompt_Pattern_Catalog_to_Enhance_Prompt_Engineering_with_ChatGPT.pdf
+https://pdfhost.io/v/aHmszIUui_The_Art_of_Prompt_Engineering
+https://arxiv.org/abs/2302.11382
